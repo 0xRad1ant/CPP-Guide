@@ -12,6 +12,38 @@
  <img src="https://user-images.githubusercontent.com/45159366/146692546-fc4f3e88-5716-4d9b-a643-9efa4225a982.png">
   <br />
 </p>
+# C/C++ Developer's Comprehensive Guide
+
+Welcome to the **C/C++ Developer's Comprehensive Guide**, your go-to resource for mastering the intricacies of the C and C++ programming languages. This guide is meticulously curated to cater to both beginners taking their first steps into the world of coding and seasoned developers aiming to sharpen their C/C++ expertise.
+
+## Introduction
+
+**C** and **C++**, iconic programming languages developed by Dennis M. Ritchie and extended by Bjarne Stroustrup respectively, offer a robust foundation for building diverse applications. While **C** provides structured programming and efficient machine instruction mapping, **C++** introduces powerful object-oriented programming features.
+
+**Embedded C** further extends the C language, enhancing microprocessor capabilities and making it a staple in the realm of embedded software development.
+
+## Learning Resources
+
+Our guide provides an array of learning materials suited for all skill levels:
+
+- [C++ Tutorial](https://www.cplusplus.com/doc/tutorial/): Official C++ documentation catering to beginners.
+- [ISO C Standard](https://www.iso.org/standard/74528.html): The official standard for the C language.
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html): Google's comprehensive coding standards for C++.
+- [Learn C++](https://www.learncpp.com/): Interactive tutorials designed for C++ beginners.
+- [Coursera C/C++ Courses](https://www.coursera.org/specializations/coding-for-everyone): Specializations in C/C++ programming.
+- [edX C/C++ Courses](https://www.edx.org/learn/c-programming): Online courses dedicated to C/C++ programming.
+- [Codecademy C++ Course](https://www.codecademy.com/learn/learn-c-plus-plus): Interactive C++ course available on Codecademy.
+
+## Essential Tools, Libraries, and Frameworks
+
+Efficiency in programming is amplified with the right set of tools. Explore these essential tools, libraries, and frameworks for your C/C++ projects:
+
+- **Integrated Development Environments (IDEs)**: [Visual Studio](https://visualstudio.microsoft.com/), [Visual Studio Code](https://code.visualstudio.com/), [CLion](https://www.jetbrains.com/clion/features/), [Code::Blocks](https://www.codeblocks.org/).
+- **Package Managers**: [Vcpkg](https://github.com/microsoft/vcpkg), [Conan](https://conan.io/).
+- **Compilers**: [GCC](https://gcc.gnu.org/), [Clang](https://clang.llvm.org/).
+- **Graphics Libraries**: [OpenGL](https://www.opengl.org/), [OpenCV](https://opencv.org/).
+- **Frameworks**: [Boost](https://www.boost.org/), [ANTLR](https://www.antlr.org/), [Oat++](https://oatpp.io/).
+
 
 # C/C++ Learning Resources
 
@@ -154,11 +186,9 @@
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
-## Contribute
+## How to Contribute
 
-- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/CPP-Guide/pulls).
+We encourage contributions to enrich this guide further! If you possess valuable insights, corrections, or new topics to introduce, kindly submit a [Pull Request](https://github.com/AnshulChoudhary001/CPP-Guide/pulls).
 
+---
 
-## License
-
-Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
