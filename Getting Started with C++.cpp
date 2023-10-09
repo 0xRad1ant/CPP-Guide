@@ -232,7 +232,7 @@ int main() {
 
     std::cout << "Value of num: " << num << std::endl;
     std::cout << "Memory address of num: " << &num << std::endl;
-    std::cout << "Value stored in pointer (memory address of num): " << ptr << std::endl;
+    std::cout << "Value stored in the pointer (memory address of num): " << ptr << std::endl;
     std::cout << "Value at the memory address (dereferencing pointer): " << *ptr << std::endl;
 
     return 0;
